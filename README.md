@@ -1,5 +1,7 @@
 # ExXero
 
+[![Build Status](https://travis-ci.org/staylorwr/ex_xero.svg?branch=master)](https://travis-ci.org/staylorwr/ex_xero)
+
 A flexible easy to use set of Xero APIs.
 
 ## Installation
